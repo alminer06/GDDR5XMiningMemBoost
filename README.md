@@ -1,0 +1,2 @@
+# GDDR5XMiningMemBoost
+GDDR5XMiningMemBoost
